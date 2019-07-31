@@ -13,6 +13,7 @@
 
     <modules>
         <module>bookstroe-api-server</module>
+        <module>user-entity</module>
     </modules>
     <groupId>com.glqdlt.bookstore</groupId>
     <artifactId>parent</artifactId>

@@ -7,7 +7,6 @@
         <artifactId>parent</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <groupId>com.glqdlt.bookstore</groupId>
     <artifactId>contents-management-system</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>contents-management-system</name>
